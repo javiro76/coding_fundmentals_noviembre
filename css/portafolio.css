@@ -52,6 +52,7 @@ a{
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
     margin-bottom: 100px;
+    background-color: violet;
     
 }
 .columnas4 div{
